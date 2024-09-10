@@ -6,17 +6,24 @@
 [Task 4 - Nodejs]
 ### Postman Documentation ###
 
-### (https://documenter.getpostman.com/view/14490009/2sAXjQ1VGs) ###
+### (https://documenter.getpostman.com/view/14490009/2sAXjSxnio) ###
 
-### Create signup - https://task27.onrender.com/student ###
+## GET METHODS
 
-### Create login - https://task27.onrender.com/mentor ###
+### Display the All users - https://task28.onrender.com/user/getAlluser ###
 
-### Display the All users - https://task27.onrender.com/mentor/66d82ec562e445890eb9c5d0 ###
+## POST MEHTODS
 
-### Forget Password - https://task27.onrender.com/assignmentor/newMentor ###
+### Create signup - https://task28.onrender.com/user/signup ###
 
-### Reset Password - https://task27.onrender.com/modifymentor ###
+### Create login - https://task28.onrender.com/user/login ###
+
+### Forget Password - https://task28.onrender.com/forget-password ###
+
+### Reset Password - https://task28.onrender.com/reset-password/:randomString/:expitationTimestamp ###
+
+
+
 
 
    
