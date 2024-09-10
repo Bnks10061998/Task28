@@ -3,7 +3,7 @@ import UserRouter from './user.js'
 
 const router = express.Router()
 router.get("/", (req, res) => {
-    res.status(200).send(` <h1> Welcome to our Password Reset backend</h1>`);
+    res.status(200).send(` <h1> Password Reset backend Page</h1>`);
   });
 router.use('/user',UserRouter)
 
